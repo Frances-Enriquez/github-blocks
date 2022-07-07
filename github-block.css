@@ -1,0 +1,28 @@
+#cutie{
+    width: 650px;
+    height: 150px;
+    background-color:skyblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+#pat{
+    width: 650px;
+    height: 150px;
+    background-color:pink;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+#tootie{
+    width: 650px;
+    height: 150px;
+    background-color:aqua;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#cutie,#pat,#tootie{
+    padding: 10px;
+}
